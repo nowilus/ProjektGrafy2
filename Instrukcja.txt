@@ -1,0 +1,2 @@
+1. Odpaliæ program ProjektGrafy2.py w consoli
+2. Jako program wejœciowy podaæ jeden z plików testowych(test.txt, test2.txt...)
